@@ -1,3 +1,3 @@
 # UW-CSE-143-Final-Materials
 
-This repository contains all the answers to the practice final questions for CSE 143 at the University of Washington.
+This repository contains practice finals for the University of Washington CSE 143 class with answers to aid with studying for the final.
