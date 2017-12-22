@@ -1,0 +1,2 @@
+#Grumpy/Doc/Dopey/Bashful
+Draw a picture below of the binary search tree that would result from inserting the following words into an empty binary search tree in the following order: `Grumpy, Doc, Dopey, Bashful`. Assume the search tree uses alphabetical ordering to compare words.
