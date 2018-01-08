@@ -1,8 +1,6 @@
-<div class="viewer">
 
 ### USCurrency
 
-<div>
 
 Define a class called USCurrency that can be used to store a currency amount in dollars and cents (both integers) where one dollar is 100 cents. Your class should include the following methods:
 

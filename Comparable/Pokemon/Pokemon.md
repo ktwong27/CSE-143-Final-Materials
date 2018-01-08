@@ -1,8 +1,5 @@
-<div class="viewer">
-
 ### PokemonTrainer
 
-<div>
 
 Define a class PokemonTrainer that stores information about a Pokemon trainer and how many battles they have won. Each PokemonTrainer object keeps track of a trainer's name, number of badges, total battles played, and number of battles won.
 
@@ -46,7 +43,3 @@ Below is example client code using PokemonTrainer objects:
     trainer2.toString()        // returns "Melissa has 6 badge(s) and no battles"
 
 The PokemonTrainer class should be comparable to other PokemonTrainer objects and should implement the Comparable interface. Trainers that have a higher battle percentage should be considered "less" than other trainers so that they appear at the beginning of a sorted list. You should use the complete value of the battle percentage rather than a truncated value. Trainers that have the same battle percentage should be ordered by the number of battles played, with trainers who have battled more often considered "less" than trainers that have battled less frequently.
-
-</div>
-
-</div>
